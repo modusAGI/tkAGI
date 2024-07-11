@@ -1,0 +1,7 @@
+tk
+openai
+groq
+python-dotenv
+ujson
+pathlib
+
