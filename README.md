@@ -1,4 +1,4 @@
-# modusAGI is an Augmented General Intelligence (AGI) framework
+# modusAGI Augmented General Intelligence (AGI) framework
 designed to seamlessly integrate sophisticated reasoning capabilities with powerful local language models, such as Llama3. This integration empowers modusAGI to understand, process, and respond to complex queries with human-like comprehension and accuracy.
 
 Key Features of modusAGI
