@@ -1,3 +1,15 @@
+ollamahandler.py module, developed by Gregory L. Magnusson in 2024, serves as an interface for interacting with the Ollama service and the Llama3 model. The utility provides several key functionalities including:
+
+Model Interaction: Allows asynchronous generation of responses from the Llama3 model based on given prompts, facilitating dynamic and interactive applications<br />
+Service Information: Provides asynchronous methods to fetch and display information about the Ollama service, ensuring users can easily access relevant service details<br />
+Model Management: Lists all available models within the Ollama service, offering a comprehensive overview of installed models<br />
+Installation Support: Facilitates the installation of the Ollama service on Linux systems through a straightforward shell script execution<br />
+Installation Check: Verifies if the Ollama service is installed and accessible, ensuring the system's readiness for model interaction<br />
+
+ollamahandler.py streamlines the process of managing and interacting with the Ollama service, making it a valuable tool for developers and researchers working with the Llama3 model and ollama variants.
+
+
+
 Class: OllamaModel
 ```python
 __init__(self)
